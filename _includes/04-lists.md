@@ -1,0 +1,13 @@
+ a list of your favorite things:
+ - 🐱
+ - 🐶
+ -  🌻
+ -  👣
+ -  👩‍👩‍👧‍👧
+ -  💌
+ -  👸
+ -  ✈️
+ -  🧑‍🎨
+ -  in order i love dogs.
+ -  cats
+ -  princess
