@@ -1,2 +1,1 @@
-you can check other info [GitHub](http://github.com)twitter[//twitter.com/?lang=e](https://twitter.com/?lang=en)
-
+you can check other info![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
